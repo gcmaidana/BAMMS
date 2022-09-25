@@ -17,11 +17,6 @@ The following people worked on this project:
 # Where are the files located? 
 [https://github.com/gcmaidana/BAMMS/tree/main/BAMMS](https://github.com/gcmaidana/BAMMS/tree/main/BAMMS)
 
-# Running the program
-To run the program, click Debug at the top of Visual Studio, then click Start without Debugging. Alternatively, you can use the shortcut Ctrl+F5. To avoid running into 
-problems, make sure you are using Visual Studio 2019 Community Edition.
-![Screenshot](a17d47221785ec413ed2706db4cff4d0.png)
-
 # How is the database set up?
 Our database is run locally, which is why in our requirements we specify that you should be using My SQL 8.0. When we first started this project and were learning how to set up a database and make C++ and SQL work together, we came across this YouTube video below. As you can see in the video below, MySQL Server and MySQL Connector are both downloaded together, and you set up the server locally after downloading. As you can see in [this file on line 25](https://github.com/gcmaidana/BAMMS/blob/main/BAMMS/DBManager.cpp) we just used "root" as the username and "password" as the password for our database server. We kept it simple so that when everyone in the group could work together without any database credentialing issues, espeically since we were sharing files here and there.
 
@@ -29,6 +24,11 @@ Our database is run locally, which is why in our requirements we specify that yo
 
 # How are the database tables created?
 Since our database is run locally, you need to execute a script in the MySQL 8.0 Command Line Client. After you log into the server, you can type in SQL queries to create the table you want. Refer to the [Table Creation Script for the tables we created for this specific program](https://github.com/gcmaidana/BAMMS/blob/main/BAMMS/TableCreationScript.cpp) You must create these tables before you run the program so that the database can track users and team stats. Otherwise of course the database would not be tracking anything.
+
+# Running the program
+To run the program, click Debug at the top of Visual Studio, then click Start without Debugging. Alternatively, you can use the shortcut Ctrl+F5. To avoid running into 
+problems, make sure you are using Visual Studio 2019 Community Edition.
+![Screenshot](a17d47221785ec413ed2706db4cff4d0.png)
 
 # Requirements
 

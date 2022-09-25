@@ -42,7 +42,7 @@ Although the files say what each individual worked on, I am making a list about 
 * The backend of the program, so the database manager CPP and H files.
 * Pushing to the database when a game ends for the premium version in the ScoringScreenPremium.h
 <br />
-* NOTE: I did not work on the scoreboard or anything related to the rules because I have no knowledge of basketball rules.
+NOTE: I did not work on the scoreboard or anything related to the rules because I have no knowledge of basketball rules.
 
 
 # Requirements

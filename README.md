@@ -41,7 +41,8 @@ Although the files say what each individual worked on, I am making a list about 
 * The form for choosing a team when a premium user starts a game (they have to name the teams in order to start the game).
 * The backend of the program, so the database manager CPP and H files.
 * Pushing to the database when a game ends for the premium version in the ScoringScreenPremium.h
-* I did not work on the scoreboard or anything related to the rules because I have no knowledge of basketball rules.
+<br />
+* NOTE: I did not work on the scoreboard or anything related to the rules because I have no knowledge of basketball rules.
 
 
 # Requirements

@@ -59,7 +59,7 @@ NOTE: I did not work on the scoreboard or anything related to the rules because 
 <br />
 <br />
 
-* This is what the premium version of the program looks like. As you can see, you can specify the team names that will be entered in the database. After you click end game in the top right corner, each team's stats will be pushed to the database for that particular game.
+* This is what the premium version of the program looks like. As you can see, you specify the team names that will be entered in the database. After you click "End Game" in the top right corner, each team's stats will be pushed to the database for that particular game.
 ![Screenshot](premium.png)
 <br />
 <br />

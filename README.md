@@ -30,6 +30,18 @@ To run the program, click Debug at the top of Visual Studio, then click Start wi
 problems, make sure you are using Visual Studio 2019 Community Edition.
 ![Screenshot](a17d47221785ec413ed2706db4cff4d0.png)
 
+# How are team stats calculated?
+The way we calculated team stats is just by taking the total number of points (or fouls or rebounds, etc.) and dividing it by the total number of games a team has played.
+
+# My Contribution
+Although the files say what each individual worked on, I am making a list about what I worked on since this project has a lot of files. 
+* The landing page form that is the first thing a user sees and allows them to select to either login or register.
+* The login and register forms and their respective functionalities with the database to track new or existing users. There's also error checking, for example, a user cannot create a username that already exists. It will also let the user know if a username does not exist when trying to log in and or when the username does exist but the password is incorrect.
+* The form for choosing a team when a premium user starts a game (they have to name the teams in order to start the game).
+* The backend of the program, so the database manager CPP and H files.
+* Pushing to the database when a game ends for the premium version in the ScoringScreenPremium.h
+* I did not work on the scoreboard or anything related to the rules because I have no knowledge of basketball rules.
+
 
 # Requirements
 

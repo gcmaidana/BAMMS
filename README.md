@@ -30,12 +30,25 @@ To run the program, click Debug at the top of Visual Studio, then click Start wi
 problems, make sure you are using Visual Studio 2019 Community Edition.
 ![Screenshot](a17d47221785ec413ed2706db4cff4d0.png)
 
+
 # Requirements
 
 * Visual Studio 2019
 * Most Recent .NET Package
 * Most Recent CLI Support
 * My SQL 8.0
+
+# Screenshots
+
+* This is what the free version of the program looks like. It is just a scoreboard. No database tracking.
+![Screenshot](free.png)
+
+* This is what the premium version of the program looks like. As you can see, you can specify the team names that will be entered in the database. After you click end game in the top right corner, each team's stats will be pushed to the database for that particular game.
+![Screenshot](premium.png)
+
+* After a team has played a game in the premium version, you can then look up that team's stats.
+![Screenshot](premiumstats.png)
+
 
 
 

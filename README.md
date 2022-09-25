@@ -4,7 +4,7 @@ BAMMS is a project created for my Intermediate Software Engineering class. BAMSS
 * The premium version extends the scoreboard to allow for the tracking of the stats recorded in the scoreboard using a database. As more games get
 played, the stats are continually tracked for the teams created by the users. Users can then view these stats for each of the teams they create. This is tracked
 for individual users since our program requires you to register and then login using a username and password.
-A
+
 # Our team: Team 05
 
 The following people worked on this project:

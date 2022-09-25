@@ -1,5 +1,5 @@
 # BAMMS
-BAMMS is a project created for my Intermediate Software Engineering class. BAMSS stands for Basketball Assistant with Metric Statistics and Scoreboard.
+BAMMS is a project created for my Intermediate Software Engineering class. BAMSS stands for Basketball Assistant with Metric Statistics and Scoreboard. This program essentially is to be used by a scorekeeper during a game of basketball. 
 * This program has a free version which is a scoreboard application that allows for the scoring of an NBA game or a College game of basketball.
 * The premium version extends the scoreboard to allow for the tracking of the stats recorded in the scoreboard using a database. As more games get
 played, the stats are continually tracked for the teams created by the users. Users can then view these stats for each of the teams they create. This is tracked

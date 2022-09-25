@@ -1,0 +1,12 @@
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.vcxproj.AssemblyReference.cache
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.ChooseTeam.resources
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.LandingPageForm.resources
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.LoginForm.resources
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.PlayerStatisticsScreen.resources
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.PremiumTutorial.resources
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.RegisterForm.resources
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.ScoringScreenFree.resources
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.ScoringScreenPremium.resources
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.StartScreenFree.resources
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.StartScreenPremium.resources
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\x64\Release\BAMMS.vcxproj.GenerateResource.cache

@@ -1,0 +1,75 @@
+  BAMMS.ChooseTeam.resources - Embedded, ContainedInManifestFile, 
+  BAMMS.LandingPageForm.resources - Embedded, ContainedInManifestFile, 
+  BAMMS.LoginForm.resources - Embedded, ContainedInManifestFile, 
+  BAMMS.PlayerStatisticsScreen.resources - Embedded, ContainedInManifestFile, 
+  BAMMS.PremiumTutorial.resources - Embedded, ContainedInManifestFile, 
+  BAMMS.RegisterForm.resources - Embedded, ContainedInManifestFile, 
+  BAMMS.ScoringScreenFree.resources - Embedded, ContainedInManifestFile, 
+  BAMMS.ScoringScreenPremium.resources - Embedded, ContainedInManifestFile, 
+  BAMMS.StartScreenFree.resources - Embedded, ContainedInManifestFile, 
+  BAMMS.StartScreenPremium.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly BAMMS, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class BAMMS.ScoringScreenPremium: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setTeamOneName(String): PrivateScope, Public, HideBySig
+    getTeamOneName(): PrivateScope, Public, HideBySig
+    setTeamTwoname(String): PrivateScope, Public, HideBySig
+    getUsername(): PrivateScope, Public, HideBySig
+Class BAMMS.ChooseTeam: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BAMMS.ScoringScreenFree: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BAMMS.PremiumTutorial: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BAMMS.PlayerStatisticsScreen: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setTeam(Team*): PrivateScope, Public, HideBySig
+Class BAMMS.StartScreenPremium: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class BAMMS.StartScreenFree: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    setUserCredentials(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    getUsername(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    getPassword(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+Class BAMMS.LoginForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String usernameInput : Public
+    System.String passwordInput : Public
+  Methods:
+    getUsername(): PrivateScope, Public, HideBySig
+    getPassword(): PrivateScope, Public, HideBySig
+Class BAMMS.RegisterForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String usernameInput : Public
+    System.String passwordInput : Public
+  Methods:
+    getUsername(): PrivateScope, Public, HideBySig
+    getPassword(): PrivateScope, Public, HideBySig

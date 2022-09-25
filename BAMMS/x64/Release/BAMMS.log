@@ -1,0 +1,78 @@
+﻿  ChooseTeam.cpp
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1428,7): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1771,7): warning C4101: 'teamOneTotalGames': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1772,7): warning C4101: 'teamTwoTotalGames': unreferenced local variable
+  ClockManager.cpp
+  DBManager.cpp
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(21,13): warning C4101: 'res': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(20,12): warning C4101: 'row': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(260,13): warning C4101: 'res': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(259,12): warning C4101: 'row': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(261,7): warning C4101: 'resultant': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(313,13): warning C4101: 'res': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(312,12): warning C4101: 'row': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(314,7): warning C4101: 'resultant': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(364,13): warning C4101: 'res': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(363,12): warning C4101: 'row': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(365,7): warning C4101: 'resultant': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(412,13): warning C4101: 'res': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(411,12): warning C4101: 'row': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(413,7): warning C4101: 'resultant': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(515,13): warning C4101: 'res': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(514,12): warning C4101: 'row': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(555,7): warning C4101: 'resultant': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(624,13): warning C4101: 'res': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(623,12): warning C4101: 'row': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(625,7): warning C4101: 'resultant': unreferenced local variable
+  Game.cpp
+  GameManager.cpp
+  LandingPageForm.cpp
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenFree.h(983,7): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1428,7): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1771,7): warning C4101: 'teamOneTotalGames': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1772,7): warning C4101: 'teamTwoTotalGames': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\LandingPageForm.h(172,3): warning C4091: 'static ': ignored on left of 'BAMMS::LandingPageForm' when no variable is declared
+  LoginForm.cpp
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenFree.h(983,7): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1428,7): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1771,7): warning C4101: 'teamOneTotalGames': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1772,7): warning C4101: 'teamTwoTotalGames': unreferenced local variable
+  ScoringScreenPremium.cpp
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1428,7): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1771,7): warning C4101: 'teamOneTotalGames': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1772,7): warning C4101: 'teamTwoTotalGames': unreferenced local variable
+  MyStack.cpp
+  PlayerStatisticsScreen.cpp
+  PremiumTutorial.cpp
+  RegisterForm.cpp
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenFree.h(983,7): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1428,7): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1771,7): warning C4101: 'teamOneTotalGames': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1772,7): warning C4101: 'teamTwoTotalGames': unreferenced local variable
+  ScoringScreenFree.cpp
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenFree.h(983,7): warning C4804: '<=': unsafe use of type 'bool' in operation
+  StartScreenFree.cpp
+  StartScreenPremium.cpp
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1428,7): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1771,7): warning C4101: 'teamOneTotalGames': unreferenced local variable
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\ScoringScreenPremium.h(1772,7): warning C4101: 'teamTwoTotalGames': unreferenced local variable
+  TableCreationScript.cpp
+  Team.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(45): warning C4715: 'DBManager::addUser': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(156): warning C4715: 'DBManager::checkIfUserExists': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(202): warning C4715: 'DBManager::attemptLogin': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(249): warning C4715: 'DBManager::isUserPremiumUser': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(300): warning C4715: 'DBManager::subscriberToPremium': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(354): warning C4715: 'DBManager::setUserAsLoggedIn': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(496): warning C4715: 'DBManager::checkIfTeamAlreadyExists': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(77): warning C4715: 'DBManager::printUsers': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(111): warning C4715: 'DBManager::printID': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(402): warning C4715: 'DBManager::setUserAsNOTLoggedIn': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(445): warning C4715: 'DBManager::retrieverUserID': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(542): warning C4715: 'DBManager::createTeam': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(657): warning C4715: 'DBManager::updateTeam': not all control paths return a value
+C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\BAMMS\DBManager.cpp(606): warning C4715: 'DBManager::retrieveExistingTeamStats': not all control paths return a value
+  ChooseTeam.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  BAMMS.vcxproj -> C:\Users\gean-\source\repos\BAMMSFinal\project\project\src\x64\Release\BAMMS.exe

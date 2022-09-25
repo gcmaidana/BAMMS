@@ -27,7 +27,7 @@ Our database is run locally, which is why in our requirements we specify that yo
 Since our database is run locally, you need to execute a script in the MySQL 8.0 Command Line Client. After you log into the server, you can type in SQL queries to create the table you want. Refer to the [Table Creation Script for the tables we created for this specific program](https://github.com/gcmaidana/BAMMS/blob/main/BAMMS/TableCreationScript.cpp). You must create these tables before you run the program so that the database can track users and team stats. Otherwise of course the database would not be tracking anything.
 
 # Running the program
-To run the program, click Debug at the top of Visual Studio, then click Start without Debugging. Alternatively, you can use the shortcut Ctrl+F5. To avoid running into 
+To run the program, open the solution file and then click Debug at the top of Visual Studio, then click Start without Debugging. Alternatively, you can use the shortcut Ctrl+F5. To avoid running into 
 problems, make sure you are using Visual Studio 2019 Community Edition.
 ![Screenshot](a17d47221785ec413ed2706db4cff4d0.png)
 
